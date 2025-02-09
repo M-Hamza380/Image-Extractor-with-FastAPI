@@ -1,0 +1,12 @@
+fastapi
+gunicorn
+uvicorn
+jinja2
+requests
+pytest
+python-multipart
+aiofiles
+python-dotenv
+numpy
+opencv-python
+paddleocr==2.9.1
